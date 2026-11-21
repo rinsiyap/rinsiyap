@@ -28,8 +28,7 @@ A task management application developed using Microsoft Azure services.
 - Azure Static Web Apps for frontend hosting.
 - Firebase Google authentication.
 
-[View Repository](https://github.com/rinsiyap/azure-serverless-task-manager) · [Live Demo](https://zealous-flower-04d85e400.8.azurestaticapps.net)
-
+[View Repository](https://github.com/rinsiyap/azure-serverless-task-manager) 
 ### 3. Kubernetes on AWS – Nginx Deployment
 
 A hands-on project focused on deploying and managing an application using Kubernetes on AWS.
